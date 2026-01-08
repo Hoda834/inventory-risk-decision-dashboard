@@ -1,6 +1,10 @@
 #  Inventory Risk Analysis Dashboard 
 
-This interactive dashboard allows you to analyse sales performance, inventory risk levels, and profitability across different categories with sample data from Volvo Truck.
+This dashboard supports inventory risk analysis and sales-related decision-making
+across product categories in a retail or manufacturing context.
+
+The dataset included in this repository is a sample automotive dataset used
+solely for demonstration and testing purposes.
 
 It is built using **Python**, **Pandas**, and **Streamlit**, and can be used by operations analysts, sales teams, or warehouse planners.
 

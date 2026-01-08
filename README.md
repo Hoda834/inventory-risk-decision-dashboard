@@ -1,4 +1,4 @@
-#  Inventory Risk Analysis Dashboard
+#  Inventory Risk Analysis Dashboard 
 
 This interactive dashboard allows you to analyse sales performance, inventory risk levels, and profitability across different categories with sample data from Volvo Truck.
 

@@ -52,8 +52,8 @@ It is built using **Python**, **Pandas**, and **Streamlit**, and can be used by 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hoda834/Sales-Dashboard.git
-   cd Sales-Dashboard
+   git clone https://github.com/Hoda834/inventory-risk-decision-dashboard.git
+   cd inventory-risk-decision-dashboard
    ```
 
 2. Create a virtual environment (optional but recommended):

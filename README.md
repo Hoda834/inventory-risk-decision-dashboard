@@ -1,6 +1,6 @@
-#  Volvo Inventory & Sales Dashboard
+#  Inventory Risk Analysis Dashboard
 
-This interactive dashboard allows you to analyse sales performance, inventory risk levels, and profitability across different Volvo models and categories.
+This interactive dashboard allows you to analyse sales performance, inventory risk levels, and profitability across different categories with sample data from Volvo Truck.
 
 It is built using **Python**, **Pandas**, and **Streamlit**, and can be used by operations analysts, sales teams, or warehouse planners.
 
@@ -52,7 +52,7 @@ It is built using **Python**, **Pandas**, and **Streamlit**, and can be used by 
    cd Sales-Dashboard
    ```
 
-2. Create virtual environment (optional but recommended):
+2. Create a virtual environment (optional but recommended):
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -85,6 +85,6 @@ This project is for demonstration and educational use. For any business use or e
 ## Author
 
 **Hoda Rezvanjoo**  
-Insight Analyst | Data Storyteller | Digital Optimiser  
+Insight Analyst | Decision Analyst | Digital Optimiser  
 [LinkedIn](https://www.linkedin.com/in/hoda-rezvanjoo/)  
 
